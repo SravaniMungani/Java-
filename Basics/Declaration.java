@@ -1,5 +1,5 @@
 //Array declaration
-class  Declaration{
+public class  Declaration{
 public static void main(String[]args){
   int arr[]={10,20,30};
   char[] size={'A','B','C'};

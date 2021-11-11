@@ -1,5 +1,5 @@
 //Adding lower type
-class Lower{
+public class Lower{
 public static void main(String[]args){
   byte a=10;
   byte b=10;
